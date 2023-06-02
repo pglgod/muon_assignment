@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/muon_assignment/static/css/main.18822392.css",
+    "main.js": "/muon_assignment/static/js/main.81d1f17c.js",
+    "static/js/787.194d0399.chunk.js": "/muon_assignment/static/js/787.194d0399.chunk.js",
+    "index.html": "/muon_assignment/index.html",
+    "main.18822392.css.map": "/muon_assignment/static/css/main.18822392.css.map",
+    "main.81d1f17c.js.map": "/muon_assignment/static/js/main.81d1f17c.js.map",
+    "787.194d0399.chunk.js.map": "/muon_assignment/static/js/787.194d0399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18822392.css",
+    "static/js/main.81d1f17c.js"
+  ]
+}
